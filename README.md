@@ -45,8 +45,12 @@ ________________________________________
 3. Data Visualization
 •	Created charts to represent data clearly 
 •	Used plots such as: 
-o	Bar charts 
+o	Bar charts
+<img width="533" height="423" alt="barvis" src="https://github.com/user-attachments/assets/89f26e9f-1b74-4c85-9cf7-48b9c1f47c5a" />
+
 o	Histograms 
+<img width="545" height="408" alt="hisvis" src="https://github.com/user-attachments/assets/d9a30b98-79d9-48e8-86ef-fabeb17a07cc" />
+
 o	Pie charts 
 o	Scatter plots 
 •	Improved readability using colors and legends 
